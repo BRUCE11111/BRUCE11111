@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 🤔 Current ranking of leetcode.cn: 5300.
 
-👯 Papers published as major contributors.
+👯 Papers published as major contributors:
 
        Federated Learning —— Optimizing federated learning on device heterogeneity with a sampling strategy.
       
