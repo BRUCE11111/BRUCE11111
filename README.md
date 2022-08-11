@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 
 🤔 Current ranking of leetcode.cn: 5300.
 
-👯 Papers published as major contributors：
-      1. Federated Learning —— Optimizing federated learning on device heterogeneity with a sampling strategy.
+👯 Papers published as major contributors.
+
+       Federated Learning —— Optimizing federated learning on device heterogeneity with a sampling strategy.
       
-      2. System domain (Model mobile deployment) —— MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices." IEEE Transactions on Mobile Computing.
+       System domain (Model mobile deployment) —— MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices. As the first conference paper published by Hunan Province.
       
-      3. System domain (Model mobile deployment) —— MobiPose: Real-time multi-person pose estimation on mobile devices.
+       System domain (Model mobile deployment) —— MobiPose: Real-time multi-person pose estimation on mobile devices.
 
 ⚡ My homepage:https://bruce11111.github.io/
 
