@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 👯 Papers published as major contributors：
       1. Federated Learning —— Optimizing federated learning on device heterogeneity with a sampling strategy.
+      
       2. System domain (Model mobile deployment) —— MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices." IEEE Transactions on Mobile Computing.
+      
       3. System domain (Model mobile deployment) —— MobiPose: Real-time multi-person pose estimation on mobile devices.
 
 ⚡ My homepage:https://bruce11111.github.io/
