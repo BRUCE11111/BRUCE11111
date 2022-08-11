@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Deep Learning Compiler at Intel. At present, I'm studying compiler and C++.
+
+😄 I like Java and algorithm problems best. 🤔 Current ranking of leetcode.cn: 5300.
+
+⚡ My homepage:https://bruce11111.github.io/
+
