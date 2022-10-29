@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <!--
 👯 Papers published as major contributors:
 
-       Federated Learning —— (IWQoS) Optimizing federated learning on device heterogeneity with a sampling strategy.
+       Federated Learning —— (IWQoS, CCF B) Xiaohui,X:Optimizing federated learning on device heterogeneity with a sampling strategy.
       
-       System domain (mobile deployment) —— (Sensys) MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices. As the first conference paper published by Hunan Province.
+       System domain (mobile deployment) —— (Sensys CCF B) Jin,Z MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices. As the first conference paper published by Hunan Province.
       
-       System domain (mobile deployment) —— (TMC) MobiPose: Real-time multi-person pose estimation on mobile devices.
+       System domain (mobile deployment) —— (TMC CCF A) JIn,Z MobiPose: Real-time multi-person pose estimation on mobile devices.
 -->
 ⚡ My homepage:https://bruce11111.github.io/
 
