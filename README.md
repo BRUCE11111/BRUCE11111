@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 😄 I like Java and algorithm problems best. 
 
-🤔 Current ranking of leetcode.cn: 3700.
+🤔 Current ranking of leetcode.cn: 3600.
 
 <!--
 👯 Papers published as major contributors:
