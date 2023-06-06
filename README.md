@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 😄 I like Java and algorithm problems best. 
 
-🤔 Current ranking of leetcode.cn: 3600.
+
 
 <!--
+🤔 Current ranking of leetcode.cn: 3400.
 👯 Papers published as major contributors:
 
        Federated Learning —— (IWQoS, CCF B) Xiaohui,X:Optimizing federated learning on device heterogeneity with a sampling strategy.
