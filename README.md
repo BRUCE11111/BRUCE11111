@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Deep Learning Compiler at Intel. At present, I'm studying compiler and C++.
 
-😄 I like Java and algorithm problems best. 
-
 
 
 <!--
