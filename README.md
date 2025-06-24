@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * Implementing IR optimizations (e.g., loop transformations(tiling))
 * Hardware-specific kernel generation (e.g., vectorization, operator fusion)
 * Memory reuse optimizations in computational graphs.
-* Some common data-flow optimization passes base on SSA, like global scope constant folding, LICM etc.
+* Some common data-flow optimization passes based on SSA, like global scope constant folding, LICM etc.
 
 🍎Deep Learning Expertise:
 
