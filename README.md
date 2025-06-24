@@ -28,5 +28,5 @@ Here are some ideas to get you started:
       
        System domain (mobile deployment) —— (TMC CCF A) JIn,Z MobiPose: Real-time multi-person pose estimation on mobile devices.
 -->
-⚡ My homepage:https://bruce11111.github.io/
+⚡ My homepage:https://bruce11111.github.io/ & www.isxxh.com
 
