@@ -15,8 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Deep Learning Compiler at Intel. 
-I am particularly proficient in auto-vectorization (for fixed-length or scalable vector registers, including reduction operation vectorization), memory reuse, tiling and operator fusion.
 
+😄Programming Languages:
+
+* Proficient in C++ including template metaprogramming
+
+* Experienced with Python, Java, x86 asm.
+
+⛹️‍♂️My C++ skills are particularly valuable for DL compiler development, especially in:
+
+* Implementing IR optimizations (e.g., loop transformations(tiling))
+* Hardware-specific kernel generation (e.g., vectorization, operator fusion)
+* Memory reuse optimizations in computational graphs.
+* Some common data-flow optimization passes base on SSA, like global scope constant folding, LICM etc.
+
+🍎Deep Learning Expertise:
+
+Mainly in NLP Domain:
+* Word Embeddings: word2vec
+* Recurrent Architectures: RNN, LSTM
+* Transformer Models: Transformer architecture
 
 
 <!--
