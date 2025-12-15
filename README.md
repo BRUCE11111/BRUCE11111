@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 * Proficient in C++ including template metaprogramming
 
-* Experienced with Python, Java, x86 asm.
+* Experienced with Python, Java, x86, RISCV asm.
 
 ⛹️‍♂️My C++ skills are particularly valuable for DL compiler development, especially in:
 
