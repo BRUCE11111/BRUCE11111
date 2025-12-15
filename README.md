@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ⛹️‍♂️My C++ skills are particularly valuable for DL compiler development, especially in:
 
 * Implementing IR optimizations (e.g., loop transformations(tiling))
-* Hardware-specific kernel generation (e.g., vectorization, operator fusion)
+* Hardware-specific kernel generation (e.g., vectorization, operator fusion，software pipeline)
 * Memory reuse optimizations in computational graphs.
 * Some common data-flow optimization passes based on SSA, like global scope constant folding, LICM etc.
 
@@ -46,6 +46,6 @@ Mainly in NLP Domain:
        System domain (mobile deployment) —— (Sensys CCF B) Jin,Z MVPose: Realtime Multi-Person Pose Estimation using Motion Vector on Mobile Devices. As the first conference paper published by Hunan Province.
       
        System domain (mobile deployment) —— (TMC CCF A) JIn,Z MobiPose: Real-time multi-person pose estimation on mobile devices.
--->
-⚡ My homepage:https://bruce11111.github.io/ & www.isxxh.com
 
+⚡ My homepage:https://www.zhihu.com/people/xiao-long-jing-shen & www.isxxh.com
+-->
