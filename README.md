@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * Hardware-specific kernel generation (e.g., vectorization, operator fusion，software pipeline)
 * Memory reuse optimizations in computational graphs.
 * Some common data-flow optimization passes based on SSA, like global scope constant folding, LICM etc.
+* MLIR,Triton etc.
 
 🍎Deep Learning Expertise:
 
